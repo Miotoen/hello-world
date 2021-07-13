@@ -7,3 +7,4 @@ I'm currently working in the medical field but I'm becoming fed up with both the
 So now I'll try and get into coding which i used to love back in school. Right now I'm at the GitHub Part of the Computer Science Course on Codecademy (24% completed, yay)
 
 Does this work with Atom as well?
+Apparently it does...
